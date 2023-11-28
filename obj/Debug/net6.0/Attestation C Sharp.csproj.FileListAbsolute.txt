@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\Attestation C Sharp\bin\Debug\net6.0\Attestation C Sharp.exe
+C:\Users\angel\Desktop\Attestation C Sharp\bin\Debug\net6.0\Attestation C Sharp.deps.json
+C:\Users\angel\Desktop\Attestation C Sharp\bin\Debug\net6.0\Attestation C Sharp.runtimeconfig.json
+C:\Users\angel\Desktop\Attestation C Sharp\bin\Debug\net6.0\Attestation C Sharp.dll
+C:\Users\angel\Desktop\Attestation C Sharp\bin\Debug\net6.0\Attestation C Sharp.pdb
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.AssemblyInfo.cs
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.dll
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\refint\Attestation C Sharp.dll
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.pdb
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\Attestation C Sharp.genruntimeconfig.cache
+C:\Users\angel\Desktop\Attestation C Sharp\obj\Debug\net6.0\ref\Attestation C Sharp.dll
